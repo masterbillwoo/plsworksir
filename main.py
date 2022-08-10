@@ -7,6 +7,7 @@
 from turtle import Turtle, Screen
 from prettytable import PrettyTable
 
+#git remote add origin https://github.com/user/repo.git
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
